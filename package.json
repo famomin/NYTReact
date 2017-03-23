@@ -1,0 +1,30 @@
+{
+  "name": "nytreacthomework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-router": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/famomin/NYTReact.git"
+  },
+  "author": "Faras Momin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/famomin/NYTReact/issues"
+  },
+  "homepage": "https://github.com/famomin/NYTReact#readme"
+}
